@@ -154,11 +154,11 @@ uniprops.get_unicode_property('basiclatin')
 
 Released under the MIT license.
 
-[github-ci-image]: https://github.com/facelessuser/uniprops/workflows/build/badge.svg?branch=master&event=push
-[github-ci-link]: https://github.com/facelessuser/uniprops/actions?query=workflow%3Abuild+branch%3Amaster
+[github-ci-image]: https://github.com/facelessuser/uniprops/workflows/build/badge.svg?branch=main&event=push
+[github-ci-link]: https://github.com/facelessuser/uniprops/actions?query=workflow%3Abuild+branch%3Amain
 [discord-image]: https://img.shields.io/discord/678289859768745989?logo=discord&logoColor=aaaaaa&color=mediumpurple&labelColor=333333
 [discord-link]:https://discord.gg/TWs8Tgr
-[codecov-image]: https://img.shields.io/codecov/c/github/facelessuser/uniprops/master.svg?logo=codecov&logoColor=aaaaaa&labelColor=333333
+[codecov-image]: https://img.shields.io/codecov/c/github/facelessuser/uniprops/main.svg?logo=codecov&logoColor=aaaaaa&labelColor=333333
 [codecov-link]: https://codecov.io/github/facelessuser/uniprops
 [pypi-image]: https://img.shields.io/pypi/v/uniprops.svg?logo=pypi&logoColor=aaaaaa&labelColor=333333
 [pypi-link]: https://pypi.python.org/pypi/uniprops
