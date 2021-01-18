@@ -8,6 +8,7 @@ include .pyspelling.yml
 include setup.py
 include tox.ini
 include LICENSE.md
+include CHANGES.md
 include README.md
 include MANIFEST.in
 include pyproject.toml
