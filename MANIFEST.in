@@ -1,0 +1,14 @@
+recursive-include uniprops *.py
+prune uniprops/unidata
+recursive-include tests *.py
+recursive-include tools *.py *.zip LICENSE
+recursive-include requirements *.txt
+include .dictionary
+include .pyspelling.yml
+include setup.py
+include tox.ini
+include LICENSE.md
+include README.md
+include MANIFEST.in
+include pyproject.toml
+include setup.cfg

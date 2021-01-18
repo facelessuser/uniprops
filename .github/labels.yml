@@ -1,0 +1,20 @@
+template: 'facelessuser:master-labels:labels.yml:master'
+
+# Wildcard labels
+
+brace_expansion: true
+extended_glob: true
+minus_negate: false
+
+rules:
+  - labels: ['C: infrastructure']
+    patterns: ['*|{tools,requirements,.github}/**|!*.md']
+
+  - labels: ['C: source']
+    patterns: ['uniprops/**']
+
+  - labels: ['C: tests']
+    patterns: ['tests/**']
+
+  - labels: ['C: docs']
+    patterns: ['docs/**|*.md']
