@@ -114,7 +114,7 @@ uniprops.get_unicode_property('alphabetic', 'true')
 There are a few exceptions to the rules above. Like in Perl regular expressions, you can pass script extension and
 block property value names, and they will be detected appropriately. Same goes for values under the general category
 property. Properties that only provide a single parameter like this are evaluated in the order: general category,
-scripts, blocks, and binary properties.
+binary, scripts, and blocks properties.
 
 As an example, these are equivalent:
 
